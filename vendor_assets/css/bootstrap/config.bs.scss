@@ -1,0 +1,248 @@
+// this file contains the configuration
+// for customizing bootstrap,
+// and other theme components
+
+@import "scss/functions";
+@import "scss/mixins";
+@import "scss/variables";
+
+
+// theme color
+$primary:       #6E4FF6;
+$secondary:     #1DC9B7;
+$success:       #4caf50;
+$info:          #36A3F7;
+$warning:       #FFB822;
+$danger:        #F4516C;
+$dark:          #202428;
+$light:         #ffffff;
+$light-gray:    #9192a3;
+
+$theme-colors: ();
+
+
+// stylelint-disable
+$gray-100: #c9cfe4;
+$white:    #ffffff;
+
+$text-light:            #9299b8;
+$text-grey1:            #5d658c;
+$text-grey2:            #7a82a6;
+$footer-dark:           #353b58;
+$title-color:           #313342;
+$text-color:            #6b6e8a;
+$text-color2:           #6F7495;
+
+// other colors, these are the colors
+// that has been used in different part of ui exceptionally
+
+$other-colors: (
+        "footer-dark": $footer-dark
+);
+
+// border color
+$border-light:                #e9ebf4;
+$border-color:                #ebedf2;
+
+//social colors
+$facebook:    #3b5998;
+$twitter:     #55acee;
+$pinterest:   #bd081c;
+$gplus:       #dc4e41;
+$linkedin:    #0077b5;
+$tumblr:      #35465c;
+$vk:          #4A76A8;
+
+$social-colors: ();
+
+// stylelint disabled
+$social-colors: map-merge(
+  (
+    "facebook":   $facebook,
+    "twitter":    $twitter,
+    "pinterest":  $pinterest,
+    "gplus":      $gplus,
+    "linkedin":   $linkedin,
+    "tumblr":     $tumblr,
+    "vk":         $vk
+  ),
+  $social-colors
+);
+
+
+// global setting override
+$enable-caret:                false;
+$enable-shadows:              true;
+
+// shadows
+$box-shadow-color:            #9299b8;
+$box-shadow:                  0 0.67rem 0.67rem rgba($box-shadow-color, .08);
+$box-shadow-lg:               0 0.67remt 0.67rem rgba($box-shadow-color, .10);
+$box-shadow-lg2:              0 8px 10px rgba($primary, .08);
+
+// font
+$font-size-base:              1rem;
+$font-family-base:            "Work Sans", sans-serif;
+
+// display text
+$display1-size:               4rem; //60px
+$display2-size:               3.6rem; //54px
+$display3-size:               3.2rem; //48px
+$display4-size:               2.8rem; //42px
+$display1-weight:             500;
+$display2-weight:             500;
+$display3-weight:             500;
+$display4-weight:             500;
+
+
+// btn
+$btn-font-weight:             600;
+$btn-font-size:               0.933rem;
+$btn-font-size-lg:            1.133rem;
+
+$btn-padding-x:               1.33rem;
+$btn-padding-x-sm:            1rem;
+$btn-padding-x-lg:            2.33rem;
+$btn-padding-y:               0;
+$btn-padding-y-sm:            0;
+$btn-padding-y-lg:            0;
+
+$btn-line-height:             2.875rem;
+$btn-line-height-lg:          3.5rem;
+$btn-line-height-md:          3.125rem;
+$btn-line-height-sm:          2.375rem;
+$btn-line-height-xs:          2.125rem;
+
+$btn-box-shadow:              none;
+
+
+
+// leading text
+$lead-font-size:              ($font-size-base * 1.33);
+$lead-font-weight:            400;
+$lead-medium-font-size:       ($font-size-base * 1.6);
+$lead-medium-font-weight:     500;
+
+// link
+$link-color: $primary;
+$link-hover-decoration:     none;
+
+// navbar
+$navbar-padding-y:                  1.3rem;
+
+//light
+$navbar-light-color:                #202428;
+$navbar-light-hover-color:          $primary;
+$navbar-light-active-color:         $primary;
+
+// dark
+$navbar-dark-color:                 rgba($white, .7);
+$navbar-dark-hover-color:           $white;
+
+// section bg
+$section-bg2:                       #f1f3f8;
+$section-bg: #eff1f5;
+$bgcolor: #f1f2f7;
+$bgcolor2: #f6f7fb;
+$bgcolor3: #f0f1f5;
+$dark-bg: #2c333e;
+
+//breadcrumb
+$breadcrumb-area-bg:                $section-bg;
+$breadcrumb-padding-y:              0;
+$breadcrumb-padding-x:              0;
+$breadcrumb-item-padding:           0.5rem;
+$breadcrumb-margin-bottom:          0;
+$breadcrumb-bg:                     none;
+$breadcrumb-divider-color:          $light;
+$breadcrumb-active-color:           $gray-100;
+$breadcrumb-divider:                quote("\f112");
+
+// Cards
+$card-border-color:                 $border-color;
+$card-cap-bg:                       #fff;
+$card-spacer-x:                     2.66rem;
+
+//Pagination
+$pagination-padding-y:              .8rem;
+$pagination-padding-x:              1rem;
+$pagination-hover-color:                  $secondary;
+$pagination-hover-bg:                     none;
+$pagination-hover-border-color:           inherit;
+$pagination-active-bg:                    $secondary;
+$pagination-active-border-color:          $secondary;
+$pagination-disabled-border-color:        $border-color;
+
+//Headings Font Sizes
+$h1-font-size:                2.4rem; //36px
+$h2-font-size:                2rem; //30px
+$h3-font-size:                1.6rem; //24px
+$h4-font-size:                1.33rem; //20px
+$h5-font-size:                1.2rem; //18px
+$h6-font-size:                1.1rem; //16px
+$headings-margin-bottom:      0;
+$headings-color:              $title-color;
+$headings-font-weight:        500;
+
+// alerts
+$alert-bg-level:                    -10;
+$alert-border-level:                -9;
+$alert-color-level:                 0;
+$alert-padding-y:                   1.6rem;
+$alert-padding-x:                   2rem;
+$alert-margin-bottom:               1.33rem;
+
+//progress bars
+$progress-height:                   0.54rem;
+$border-radius:                     0.1875rem;
+$btn-border-radius:                 $border-radius;
+
+//form elements
+$input-height:                3.2rem;
+$input-height-lg:             3.47rem;
+$input-height-sm:             2.8rem;
+$input-padding-x:             1.2rem;
+$form-text-margin-top:        .66rem;
+$input-border-radius:         $border-radius-sm;
+$input-border-color:          $border-color;
+
+// tabs
+$nav-tabs-border-radius:            0;
+$nav-tabs-link-active-color:        $secondary;
+$nav-tabs-link-active-bg:           $light;
+
+$nav-pills-border-radius:           13.33rem;
+$nav-pills-link-active-color:       $component-active-color;
+$nav-pills-link-active-bg:          $primary;
+
+//transition
+$transition-base:             all .3s ease;
+
+//hr
+$hr-margin-y:                 4.67rem;
+$hr-border-color:             $border-light;
+
+//badges
+$badge-padding-y:             0.3rem;
+$badge-padding-x:             0.66rem;
+$badge-font-size:             0.7rem;
+$badge-font-weight:           600;
+$badge-border-radius:         0.133rem;
+$badge-pill-padding-x:        0.86rem;
+
+//modal
+$modal-md:                          420px;
+
+//body
+$body-color:                  $text-color2;
+
+//Progress
+$progress-height:             8px;
+$progress-border-radius:      200px;
+$progress-bar-bg:             $secondary;
+
+//blockquote
+$blockquote-font-size:        20px;
+
+
+@import "scss/variables";

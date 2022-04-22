@@ -1,0 +1,78 @@
+/* Alert Styles */
+.alert{
+  padding: 18px 55px 18px 60px;
+  border-radius: 3px;
+  font-size: 16px;
+  margin-bottom: 30px;
+  position: relative;
+  &:before{
+    position: absolute;
+    font-family: "Simple-Line-Icons";
+    left: 30px;
+    top: 18px;
+  }
+  strong{
+      font-weight: 500;
+  }
+  .alert_icon{
+    margin-right: 15px;
+    font-size: 16px;
+  }
+  &.alert-default{
+    @extend .color-primary;
+    background: transparentize($primary,.9);
+    .close{
+      @extend .color-primary;
+    }
+  }
+  &.alert-primary{
+    &:before{
+      content: '\e027';
+    }
+  }
+  &.alert-secondary{
+    &:before{
+      content: '\e031';
+    }
+  }
+  &.alert-success{
+    background: transparentize($secondary, .9);
+    border-color: transparentize($secondary, .9);
+    &:before{
+      content: '\e080';
+    }
+  }
+  &.alert-info{
+    background: transparentize($info, .9);
+    border-color: transparentize($info, .9);
+    &:before{
+      content: '\e055';
+    }
+  }
+  &.alert-warning{
+    background: transparentize($warning, .9);
+    border-color: transparentize($warning, .9);
+    &:before{
+      content: '\e617';
+    }
+  }
+  &.alert-danger{
+    background: transparentize($danger, .9);
+    border-color: transparentize($danger, .9);
+    &:before{
+      content: '\e01a';
+    }
+  }
+  .close{
+    font-size: 16px;
+    opacity: .3;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0;
+    &:hover{
+      opacity: .5;
+    }
+  }
+}

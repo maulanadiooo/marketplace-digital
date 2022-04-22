@@ -1,0 +1,62 @@
+/* Badge Page */
+.badges {
+  .author-badges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    .badge-single {
+      text-align: center;
+      width: 265px;
+      padding: 0 15px;
+      margin-bottom: 30px;
+      .svg {
+        width: 160px;
+        height: 160px;
+      }
+      img {
+        display: inline-block;
+
+      }
+      h4 {
+        margin: 20px 0;
+      }
+      p {
+        margin-bottom: 0;
+      }
+    }
+  }
+  &.author-rank {
+    padding: 100px 0 65px 0;
+    border-bottom: 1px solid $border-color;
+  }
+  &.community-badges {
+    padding: 90px 0 70px 0;
+    .author-badges {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      .badge-single {
+        width: 20%;
+      }
+    }
+  }
+
+}
+
+.badge-single {
+  svg.locked {
+    filter: grayscale(1);
+    opacity: 0.15;
+  }
+  .svg_wrapper {
+    position: relative;
+    span {
+      position: absolute;
+      font-size: 94px;
+      color: #696a75;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+}

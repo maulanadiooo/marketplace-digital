@@ -1,0 +1,81 @@
+/*
+this file contain the style for pricing components
+*/
+/*****************************
+	--- PRICING
+*****************************/
+.pricing-wrapper{
+  display: flex;
+}
+.package-single{
+  margin-top: 50px;
+  margin-right: -1px;
+  margin-bottom: 30px;
+  padding: 26px 30px 30px;
+  border: 1px solid $border-color;
+  flex: 1;
+  position: relative;
+  .package-header{
+    text-align: center;
+    .amount{
+      padding: 10px 0 25px 0;
+      border-bottom: 1px solid $border-color;
+      margin-bottom: 30px;
+      span{
+        font-size: 40px;
+        font-weight: 500;
+        display: block;
+        @extend .color-secondary;
+      }
+    }
+  }
+  .package-body{
+    ul{
+      li{
+        margin-bottom: 13px;
+        padding-left: 25px;
+        position: relative;
+        color: #7a82a6;
+        &:last-child{
+          margin-bottom: 0;
+        }
+        &:before{
+          position: absolute;
+          font-size: 16px;
+          font-family: "FontAwesome";
+          left: 0;
+          top: -1px;
+        }
+        &.yes{
+          &:before{
+            content: "\f05d";
+            @extend .color-secondary;
+          }
+        }
+        &.no{
+          &:before{
+            content: "\f05c";
+            @extend .color-danger;
+          }
+        }
+      }
+    }
+    .btn{
+      margin-top: 20px;
+    }
+  }
+  &.featured-plan{
+    .featured-badge{
+      position: absolute;
+      height: 50px;
+      @extend .bg-primary;
+      width: 100%;
+      left:0;
+      top: -50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+    }
+  }
+}

@@ -1,0 +1,19 @@
+[09-Jan-2021 08:21:53 Asia/Jakarta] PHP Warning:  require(../geo-ip.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 4
+[09-Jan-2021 08:21:53 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../geo-ip.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 4
+[09-Jan-2021 08:22:01 Asia/Jakarta] PHP Notice:  Trying to get property 'country_name' of non-object in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 8
+[09-Jan-2021 08:22:14 Asia/Jakarta] PHP Notice:  Trying to get property 'country_name' of non-object in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 8
+[09-Jan-2021 08:22:15 Asia/Jakarta] PHP Notice:  Trying to get property 'country_name' of non-object in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 8
+[09-Jan-2021 01:24:31 UTC] PHP Notice:  Trying to get property 'country_code' of non-object in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 9
+[09-Jan-2021 01:24:31 UTC] PHP Notice:  Trying to get property 'country_name' of non-object in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 11
+[09-Jan-2021 01:24:31 UTC] PHP Notice:  Trying to get property 'city' of non-object in /home/u526150100/domains/gubukdigital.net/public_html/lib/tes.php on line 13
+[14-Jan-2021 17:40:13 UTC] PHP Warning:  include(classes/class.phpmailer.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/mail.php on line 2
+[14-Jan-2021 17:40:13 UTC] PHP Warning:  include(): Failed opening 'classes/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/mail.php on line 2
+[14-Jan-2021 17:40:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/u526150100/domains/gubukdigital.net/public_html/lib/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/lib/mail.php on line 3
+[14-Feb-2021 07:21:39 UTC] PHP Notice:  Undefined variable: install in /home/u526150100/domains/gubukdigital.net/public_html/lib/wa_kirim.php on line 87
+[14-Feb-2021 07:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function sendMessage() on null in /home/u526150100/domains/gubukdigital.net/public_html/lib/wa_kirim.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/lib/wa_kirim.php on line 87

@@ -1,0 +1,753 @@
+[08-Jan-2021 06:56:09 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:56:12 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:56:23 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:56:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:56:45 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:57:26 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:58:48 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 06:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:01:30 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:01:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:06:52 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:17:34 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:38:55 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 07:38:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 08:21:36 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 08:21:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 09:46:58 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 09:46:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 12:37:39 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 12:37:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 18:19:01 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jan-2021 18:19:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[09-Jan-2021 05:41:42 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[09-Jan-2021 05:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[10-Jan-2021 04:27:03 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[10-Jan-2021 04:27:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[11-Jan-2021 04:27:05 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[11-Jan-2021 04:27:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[12-Jan-2021 04:27:07 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[12-Jan-2021 04:27:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:06:55 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:06:56 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:07:08 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:07:30 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:08:12 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:09:33 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:12:16 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:12:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:17:38 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:28:20 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:49:43 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 12:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 13:32:24 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 13:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:25:43 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:25:44 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:25:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:25:55 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:26:17 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:27:00 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:27:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:28:22 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:28:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:31:04 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:36:26 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:47:07 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:57:45 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 14:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 15:08:30 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 15:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 15:51:12 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 15:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 17:16:34 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 17:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 17:48:27 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 17:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 20:07:16 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 20:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 23:29:49 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[19-Jan-2021 23:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 01:48:38 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 01:48:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:53:26 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:53:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:53:27 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:53:38 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:54:01 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:54:42 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:56:05 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:56:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:58:46 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 05:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 06:04:08 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 06:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 06:14:50 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 06:14:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 06:36:11 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 06:36:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 07:18:52 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 07:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 08:44:13 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 08:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 10:52:31 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 11:34:55 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 11:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 13:11:20 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 13:11:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 17:16:16 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[20-Jan-2021 17:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[21-Jan-2021 04:38:58 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[21-Jan-2021 04:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[21-Jan-2021 09:37:52 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[21-Jan-2021 09:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[21-Jan-2021 11:56:41 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[21-Jan-2021 11:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[22-Jan-2021 03:55:04 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[22-Jan-2021 03:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[22-Jan-2021 09:43:58 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[22-Jan-2021 09:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[22-Jan-2021 11:59:07 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[22-Jan-2021 11:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[23-Jan-2021 03:55:06 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[23-Jan-2021 03:55:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[23-Jan-2021 09:44:00 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[23-Jan-2021 09:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[23-Jan-2021 11:59:08 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[23-Jan-2021 11:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[24-Jan-2021 03:55:09 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[24-Jan-2021 03:55:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:04 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:05 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:17 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:39 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:19:20 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:20:43 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:23:25 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:28:48 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:28:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:39:29 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 12:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 13:00:51 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 13:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 13:43:33 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 13:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 15:08:55 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 15:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 17:59:38 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 17:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 23:41:00 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[02-Feb-2021 23:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[03-Feb-2021 11:03:41 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[03-Feb-2021 11:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[04-Feb-2021 09:49:04 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[04-Feb-2021 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 09:49:05 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 09:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:45:58 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:45:59 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:46:10 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:46:32 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:47:13 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:47:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:48:36 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:48:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:51:18 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:56:41 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 11:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 12:07:22 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 12:07:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 12:28:43 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 12:28:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 13:11:25 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 14:36:46 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 14:36:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 17:27:29 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 17:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 23:08:50 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[05-Feb-2021 23:08:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[06-Feb-2021 09:49:06 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[06-Feb-2021 09:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[06-Feb-2021 10:31:32 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[06-Feb-2021 10:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[07-Feb-2021 09:16:53 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[07-Feb-2021 09:16:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Feb-2021 09:16:56 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Feb-2021 09:16:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[09-Feb-2021 09:17:02 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[09-Feb-2021 09:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:27:24 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:27:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:27:40 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:27:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:28:14 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:28:58 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:30:25 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:33:12 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:33:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:38:36 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:49:23 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 09:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 10:10:48 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 10:10:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 10:53:33 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 10:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 12:19:04 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 12:19:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 15:09:49 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 15:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 20:51:15 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[27-Mar-2021 20:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[28-Mar-2021 08:14:00 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[28-Mar-2021 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[29-Mar-2021 06:59:27 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[29-Mar-2021 06:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[30-Mar-2021 06:59:32 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[30-Mar-2021 06:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[31-Mar-2021 08:25:04 UTC] PHP Notice:  Undefined variable: model in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[31-Mar-2021 08:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function db_query() on null in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php:3
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/ipn.php(4): include_once()
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/config.php on line 3
+[08-Jul-2021 17:52:56 Asia/Jakarta] PHP Notice:  Undefined index: query_invoice_pm in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/index.php on line 21
+[08-Jul-2021 17:53:44 Asia/Jakarta] PHP Notice:  Undefined index: query_invoice_pm in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/index.php on line 21
+[08-Jul-2021 17:55:17 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/paypal/index.php on line 86

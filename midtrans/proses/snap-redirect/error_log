@@ -1,0 +1,266 @@
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:11:57 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): {"error_messages":["transaction_details.gross_amount is not equal to the sum of item_details"]} | Request url: https://app.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(53): Midtrans\Snap::createTransaction(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:53 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): {"error_messages":["transaction_details.gross_amount is not equal to the sum of item_details"]} | Request url: https://app.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(55): Midtrans\Snap::createTransaction(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:54 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): {"error_messages":["transaction_details.gross_amount is not equal to the sum of item_details"]} | Request url: https://app.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(55): Midtrans\Snap::createTransaction(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:55 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): {"error_messages":["transaction_details.gross_amount is not equal to the sum of item_details"]} | Request url: https://app.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(55): Midtrans\Snap::createTransaction(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:14:56 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): {"error_messages":["transaction_details.gross_amount is not equal to the sum of item_details"]} | Request url: https://app.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(55): Midtrans\Snap::createTransaction(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'quantity' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'price' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php on line 68
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type int in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Cannot use a scalar value as an array in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 43
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'id' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 41
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 47
+[14-Jan-2021 18:15:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'name' in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Sanitizer.php on line 45
+[14-Jan-2021 18:15:44 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): {"error_messages":["customer_details.email format is invalid","transaction_details.gross_amount is not equal to the sum of item_details"]} | Request url: https://app.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(55): Midtrans\Snap::createTransaction(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[21-Apr-2021 06:33:49 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[21-Apr-2021 06:36:32 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[21-Apr-2021 06:39:16 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[21-Apr-2021 06:39:16 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[21-Apr-2021 06:45:08 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (401): {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://snap-docs.midtrans.com/#request-headers for more details"]} | Request url: https://app.sandbox.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.san...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.san...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(34): Midtrans\Snap::createTransaction(Array)
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(29): Midtrans\Snap::getSnapT in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[20-Apr-2021 23:47:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 36
+[21-Apr-2021 06:47:53 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (401): {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://snap-docs.midtrans.com/#request-headers for more details"]} | Request url: https://app.sandbox.midtrans.com/snap/v1/transactions in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php:107
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php(33): Midtrans\SnapApiRequestor::remoteCall('https://app.san...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(88): Midtrans\SnapApiRequestor::post('https://app.san...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Snap.php(34): Midtrans\Snap::createTransaction(Array)
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php(23): Midtrans\Snap::getSnapT in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/SnapApiRequestor.php on line 107
+[21-Apr-2021 06:48:57 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 06:31:04 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 06:31:04 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 06:57:32 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 06:57:32 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:00:00 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:00:00 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:09:11 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:09:11 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:13:09 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:13:09 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:16:19 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:16:19 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:20:55 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:20:55 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:42:43 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[29-Apr-2021 07:42:43 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 42
+[08-Jul-2021 17:19:34 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 52
+[08-Jul-2021 17:19:34 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 52
+[08-Jul-2021 17:21:05 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 52
+[08-Jul-2021 17:21:05 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 52
+[08-Jul-2021 17:24:23 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[08-Jul-2021 17:24:23 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[12-Jul-2021 07:13:18 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[12-Jul-2021 07:13:18 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[12-Jul-2021 08:31:50 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[12-Jul-2021 08:31:50 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[17-Jul-2021 01:24:29 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[17-Jul-2021 01:24:29 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[22-Jul-2021 20:32:05 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[22-Jul-2021 20:32:05 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[22-Jul-2021 21:21:06 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[22-Jul-2021 21:21:06 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[23-Jul-2021 11:10:45 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[23-Jul-2021 11:10:45 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[24-Jul-2021 17:19:25 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[24-Jul-2021 17:19:25 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[02-Aug-2021 06:46:27 Asia/Jakarta] PHP Warning:  Use of undefined constant pay - assumed 'pay' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59
+[02-Aug-2021 06:46:27 Asia/Jakarta] PHP Notice:  Undefined variable: token in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/snap-redirect/proses.php on line 59

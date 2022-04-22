@@ -1,0 +1,44 @@
+/*
+this file contains for different pagination style
+*/
+
+/*****************************
+	--- PAGINATION
+*****************************/
+.pagination-default {
+  margin-top: 30px;
+}
+
+.comments-pagination {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  border-radius: 3px;
+  justify-content: center;
+  li {
+    &:first-child, &:last-child {
+      a {
+        width: auto;
+      }
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+    a {
+      display: block;
+      min-width: 42px;
+      min-height: 42px;
+      color: $text-color2;
+      padding-top: 10px;
+      text-align: center;
+      border: 1px solid $border-color;
+    }
+    &.active {
+      a {
+        @extend .bg-secondary;
+        color: #fff;
+      }
+    }
+  }
+}

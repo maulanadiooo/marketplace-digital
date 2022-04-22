@@ -1,0 +1,89 @@
+/*
+this  page contains style for modal
+*/
+
+/*****************************
+	--- MODAL
+*****************************/
+.modal{
+  .modal-header{
+    padding: 23px 30px 30px;
+    display: block;
+    p{
+      margin: 0;
+    }
+  }
+  .modal-title{
+    margin-bottom: 17px;
+  }
+  .modal-md{
+    width: 750px;
+  }
+  .modal-body{
+    padding: 30px;
+  }
+  .modal_close{
+    @extend .bg-secondary;
+    line-height: 40px;
+    color: #fff;
+    margin-left: 10px;
+    padding: 0 36px;
+  }
+}
+
+/*item removal modal */
+.item_removal {
+  .btns{
+    text-align: center;
+    a{
+      &+a{
+        margin-left: 20px;
+      }
+    }
+  }
+  .modal-body{
+    text-align: center;
+    padding: 50px 30px;
+    h4{
+      margin-bottom: 40px;
+      font-size: 24px;
+    }
+  }
+
+  .modal-dialog{
+    top: 33%;
+  }
+}
+
+/* author contact */
+.author-contact{
+  .modal-title{
+    margin: 0;
+  }
+  .modal-body{
+    padding: 30px 30px 0;
+  }
+  .modal-footer{
+    border-top: 0;
+    padding: 14px 30px 30px;
+    justify-content: flex-start;
+  }
+}
+
+/* video modal css */
+.video_modal{
+  .modal-content{
+    iframe{
+      width: 600px;
+      height: 450px;
+    }
+  }
+}
+#myModal.modal.fade .modal-dialog {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  -webkit-transform: translate(-50%, -60%);
+  -ms-transform: translate(-50%, -60%);
+  transform: translate(-50%, -60%);
+}

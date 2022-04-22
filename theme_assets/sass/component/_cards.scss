@@ -1,0 +1,126 @@
+/***************************************
+     START CARD AREA
+****************************************/
+/* card style1 */
+.card_style1{
+  @extend .cardify;
+  margin-bottom: 30px;
+  .card_style1__info{
+    img{
+      width: 100%;
+      border-radius: 6px 6px  0 0;
+    }
+    .date_place{
+      li{
+        margin-bottom: 10px;
+        &:last-child{
+          margin-bottom: 0;
+        }
+        span{
+          @extend .color-primary;
+          display: inline-block;
+          font-size: 20px;
+        }
+        span,p{
+          @include vertically_middle;
+        }
+        p{
+          display: inline-block;
+          font-weight: 400;
+          font-size: 16px;
+          margin-left: 13px;
+          margin-bottom: 0;
+        }
+      }
+    }
+    figcaption{
+      border-radius: 0 0 6px 6px;
+      padding: 22px 30px 28px;
+      a:hover{
+        h3, h4{
+          @extend .color-primary;
+        }
+      }
+      h4{
+        transition: 0.3s;
+        line-height: 30px;
+        margin-bottom: 17px;
+      }
+    }
+  }
+}
+
+/* card style 2 */
+.card_style2{
+  @extend .cardify;
+  padding: 40px 50px 40px 40px;
+  margin-bottom: 30px;
+  position: relative;
+  .card_style2__title{
+    color: #000;
+    margin-bottom: 25px;
+    line-height: 30px;
+  }
+  .card_style2__location_type{
+    margin-bottom: 20px;
+    p,.type{
+      display: inline-block;
+      margin-bottom: 0;
+    }
+    p{
+      color: #5a6671;
+      font-size: 16px;
+      line-height: 30px;
+      margin-right: 17px;
+      span{
+        @extend .color-primary;
+        font-size: 20px;
+        margin-right: 8px;
+        vertical-align: -3px;
+      }
+    }
+    .type{
+      color: #fff;
+      line-height: 28px;
+      font-weight: 400;
+      border-radius: 3px;
+      padding: 0 15px;
+      font-size: 12px;
+    }
+  }
+  a{
+    font-size: 16px;
+    line-height: 30px;
+    @extend .color-primary;
+    font-weight: 400;
+    display:flex;
+    align-items: center;
+    span{
+        padding-left: 7px;
+    }
+  }
+  .save_job{
+      position: absolute;
+      right: 40px;
+      top: 46px;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: transparentize($primary, 0.9);
+      text-align: center;
+      padding-top: 6px;
+      transition: $transition;
+      span{
+          cursor: pointer;
+          font-size: 14px;
+          @extend .color-primary;
+          transition: $transition;
+      }
+      &:hover{
+            background: transparentize($secondary, 0.9);
+          span{
+              @extend .color-secondary;
+          }
+      }
+  }
+}

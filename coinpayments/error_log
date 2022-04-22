@@ -1,0 +1,115 @@
+[09-Jan-2021 09:54:34 Asia/Jakarta] payment masih pending
+[09-Jan-2021 09:54:34 Asia/Jakarta] IPN OK
+[09-Jan-2021 09:57:29 Asia/Jakarta] Pembayaran GD555202 gagal didapatkan
+[09-Jan-2021 09:57:29 Asia/Jakarta] IPN OK
+[09-Jan-2021 13:47:25 Asia/Jakarta] Pembayaran GD698166 gagal didapatkan
+[09-Jan-2021 13:47:25 Asia/Jakarta] IPN OK
+[09-Jan-2021 15:22:31 Asia/Jakarta] PHP Notice:  Undefined index: total_price_admin in /home/u526150100/domains/gubukdigital.net/public_html/coinpayments/ipnhandler_eth.php on line 64
+[09-Jan-2021 15:22:31 Asia/Jakarta] invoice ETH tidak ditemukan
+[09-Jan-2021 17:48:29 Asia/Jakarta] payment masih pending
+[09-Jan-2021 17:48:29 Asia/Jakarta] IPN OK
+[09-Jan-2021 19:22:33 Asia/Jakarta] PHP Notice:  Undefined index: total_price_admin in /home/u526150100/domains/gubukdigital.net/public_html/coinpayments/ipnhandler_eth.php on line 64
+[09-Jan-2021 19:22:33 Asia/Jakarta] invoice ETH tidak ditemukan
+[09-Jan-2021 21:51:26 Asia/Jakarta] Pembayaran GD826499 gagal didapatkan
+[09-Jan-2021 21:51:26 Asia/Jakarta] IPN OK
+[18-Jan-2021 19:25:26 Asia/Jakarta] payment masih pending
+[18-Jan-2021 19:25:26 Asia/Jakarta] IPN OK
+[19-Jan-2021 10:30:53 Asia/Jakarta] Pembayaran GD594640 gagal didapatkan
+[19-Jan-2021 10:30:53 Asia/Jakarta] IPN OK
+[31-Jan-2021 05:28:24 Asia/Jakarta] Deposit ID 15 MASIH PENDING
+[31-Jan-2021 05:28:24 Asia/Jakarta] IPN OK
+[31-Jan-2021 09:29:27 Asia/Jakarta] Deposit ID 15 gagal didapatkan
+[31-Jan-2021 09:29:27 Asia/Jakarta] IPN OK
+[06-Feb-2021 03:12:34 Asia/Jakarta] payment masih pending
+[06-Feb-2021 03:12:34 Asia/Jakarta] IPN OK
+[06-Feb-2021 06:32:44 Asia/Jakarta] Deposit ID 16 MASIH PENDING
+[06-Feb-2021 06:32:44 Asia/Jakarta] IPN OK
+[06-Feb-2021 10:33:26 Asia/Jakarta] Deposit ID 16 gagal didapatkan
+[06-Feb-2021 10:33:26 Asia/Jakarta] IPN OK
+[06-Feb-2021 18:46:29 Asia/Jakarta] Pembayaran GD153649 gagal didapatkan
+[06-Feb-2021 18:46:29 Asia/Jakarta] IPN OK
+[09-Mar-2021 01:53:37 Asia/Jakarta] payment masih pending
+[09-Mar-2021 01:53:37 Asia/Jakarta] IPN OK
+[09-Mar-2021 05:55:20 Asia/Jakarta] Pembayaran GD391970 gagal didapatkan
+[09-Mar-2021 05:55:20 Asia/Jakarta] IPN OK
+[20-Mar-2021 00:27:29 Asia/Jakarta] Deposit ID 21 MASIH PENDING
+[20-Mar-2021 00:27:29 Asia/Jakarta] IPN OK
+[20-Mar-2021 04:31:25 Asia/Jakarta] Deposit ID 21 gagal didapatkan
+[20-Mar-2021 04:31:25 Asia/Jakarta] IPN OK
+[31-Mar-2021 20:50:18 Asia/Jakarta] Deposit ID 23 MASIH PENDING
+[31-Mar-2021 20:50:18 Asia/Jakarta] IPN OK
+[01-Apr-2021 00:48:36 Asia/Jakarta] Deposit ID 23 gagal didapatkan
+[01-Apr-2021 00:48:37 Asia/Jakarta] IPN OK
+[06-Apr-2021 09:46:54 Asia/Jakarta] Deposit BTC ID 28 Masih Pending
+[06-Apr-2021 09:46:54 Asia/Jakarta] IPN OK
+[06-Apr-2021 16:10:39 Asia/Jakarta] payment masih pending
+[06-Apr-2021 16:10:39 Asia/Jakarta] IPN OK
+[06-Apr-2021 16:28:44 Asia/Jakarta] PHP Notice:  Undefined index: total_price_admin in /home/u526150100/domains/gubukdigital.net/public_html/coinpayments/ipnhandler.php on line 71
+[06-Apr-2021 16:28:44 Asia/Jakarta] invoice BTC tidak ditemukan
+[06-Apr-2021 16:35:03 Asia/Jakarta] payment masih pending
+[06-Apr-2021 16:35:03 Asia/Jakarta] IPN OK
+[06-Apr-2021 17:49:50 Asia/Jakarta] PHP Notice:  Undefined index: total_price_admin in /home/u526150100/domains/gubukdigital.net/public_html/coinpayments/ipnhandler.php on line 71
+[06-Apr-2021 17:49:50 Asia/Jakarta] invoice BTC tidak ditemukan
+[06-Apr-2021 18:06:01 Asia/Jakarta] PHP Notice:  Undefined index: total_price_admin in /home/u526150100/domains/gubukdigital.net/public_html/coinpayments/ipnhandler.php on line 71
+[06-Apr-2021 18:06:01 Asia/Jakarta] invoice BTC tidak ditemukan
+[06-Apr-2021 18:06:37 Asia/Jakarta] Pembayaran GD822437 gagal didapatkan
+[06-Apr-2021 18:06:37 Asia/Jakarta] IPN OK
+[06-Apr-2021 22:02:14 Asia/Jakarta] payment masih pending
+[06-Apr-2021 22:02:14 Asia/Jakarta] IPN OK
+[07-Apr-2021 00:53:37 Asia/Jakarta] Deposit ID 28 gagal didapatkan
+[07-Apr-2021 00:53:37 Asia/Jakarta] IPN OK
+[07-Apr-2021 22:37:25 Asia/Jakarta] invoice BTC tidak ditemukan
+[07-Apr-2021 22:51:37 Asia/Jakarta] payment masih pending
+[07-Apr-2021 22:51:37 Asia/Jakarta] IPN OK
+[07-Apr-2021 22:54:54 Asia/Jakarta] Pembayaran Cointpayment Telah berhasil diverifikasi invoice GD586289
+[07-Apr-2021 22:54:54 Asia/Jakarta] IPN OK
+[10-Apr-2021 23:34:36 Asia/Jakarta] payment masih pending
+[10-Apr-2021 23:34:36 Asia/Jakarta] IPN OK
+[11-Apr-2021 00:36:41 Asia/Jakarta] Pembayaran GD452286 gagal didapatkan
+[11-Apr-2021 00:36:41 Asia/Jakarta] IPN OK
+[19-Apr-2021 19:23:47 Asia/Jakarta] payment masih pending
+[19-Apr-2021 19:23:47 Asia/Jakarta] IPN OK
+[20-Apr-2021 23:26:42 Asia/Jakarta] invoice BTC tidak ditemukan
+[26-Apr-2021 04:43:38 Asia/Jakarta] payment masih pending
+[26-Apr-2021 04:43:38 Asia/Jakarta] IPN OK
+[26-Apr-2021 06:18:25 Asia/Jakarta] Pembayaran GD485452 gagal didapatkan
+[26-Apr-2021 06:18:25 Asia/Jakarta] IPN OK
+[07-May-2021 13:57:32 Asia/Jakarta] payment masih pending
+[07-May-2021 13:57:32 Asia/Jakarta] IPN OK
+[07-May-2021 15:10:41 Asia/Jakarta] invoice BTC tidak ditemukan
+[20-May-2021 13:14:41 Asia/Jakarta] Deposit BTC ID 31 Masih Pending
+[20-May-2021 13:14:41 Asia/Jakarta] IPN OK
+[21-May-2021 16:27:43 Asia/Jakarta] Deposit ID 31 gagal didapatkan
+[21-May-2021 16:27:43 Asia/Jakarta] IPN OK
+[25-Jun-2021 23:24:38 Asia/Jakarta] Deposit ID 40 MASIH PENDING
+[25-Jun-2021 23:24:38 Asia/Jakarta] IPN OK
+[26-Jun-2021 00:52:46 Asia/Jakarta] Deposit ID 40 gagal didapatkan
+[26-Jun-2021 00:52:46 Asia/Jakarta] IPN OK
+[26-Jun-2021 17:09:41 Asia/Jakarta] Deposit ID 48 MASIH PENDING
+[26-Jun-2021 17:09:41 Asia/Jakarta] IPN OK
+[26-Jun-2021 18:50:41 Asia/Jakarta] Deposit ID 48 gagal didapatkan
+[26-Jun-2021 18:50:41 Asia/Jakarta] IPN OK
+[26-Jun-2021 23:50:48 Asia/Jakarta] Deposit tidak ditemukan
+[27-Jun-2021 08:18:44 Asia/Jakarta] Deposit tidak ditemukan
+[30-Jun-2021 23:41:47 Asia/Jakarta] invoice BTC tidak ditemukan
+[01-Jul-2021 16:40:50 Asia/Jakarta] invoice BTC tidak ditemukan
+[07-Jul-2021 16:01:21 Asia/Jakarta] payment masih pending
+[07-Jul-2021 16:01:21 Asia/Jakarta] IPN OK
+[08-Jul-2021 02:06:41 Asia/Jakarta] Pembayaran GD15753759 gagal didapatkan
+[08-Jul-2021 02:06:41 Asia/Jakarta] IPN OK
+[14-Jul-2021 17:35:38 Asia/Jakarta] Deposit BTC ID 71 Masih Pending
+[14-Jul-2021 17:35:38 Asia/Jakarta] IPN OK
+[14-Jul-2021 21:17:52 Asia/Jakarta] Deposit ID 71 gagal didapatkan
+[14-Jul-2021 21:17:52 Asia/Jakarta] IPN OK
+[29-Sep-2021 13:56:05 Asia/Jakarta] payment masih pending
+[29-Sep-2021 13:56:05 Asia/Jakarta] IPN OK
+[29-Sep-2021 16:57:05 Asia/Jakarta] Pembayaran GD18662864 gagal didapatkan
+[29-Sep-2021 16:57:05 Asia/Jakarta] IPN OK
+[28-Oct-2021 03:19:12 Asia/Jakarta] payment masih pending
+[28-Oct-2021 03:19:12 Asia/Jakarta] IPN OK
+[28-Oct-2021 11:21:09 Asia/Jakarta] Pembayaran GD31977441 gagal didapatkan
+[28-Oct-2021 11:21:09 Asia/Jakarta] IPN OK
+[08-Dec-2021 02:05:19 Asia/Jakarta] payment masih pending
+[08-Dec-2021 02:05:19 Asia/Jakarta] IPN OK
+[08-Dec-2021 03:35:28 Asia/Jakarta] Pembayaran GD83069832 gagal didapatkan
+[08-Dec-2021 03:35:28 Asia/Jakarta] IPN OK

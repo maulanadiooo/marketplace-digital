@@ -1,0 +1,97 @@
+/*
+This _btn.scss file contains all the different btn style used all across the site.
+Any specific btn can be modified very easily from this file without
+interfering any other css
+*/
+
+/*****************************
+	---BUTTON
+*****************************/
+.btn--round{
+  border-radius: 100px;
+}
+.btn{
+  margin: 0;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-weight: 400;
+  display: inline-block;
+  transition: $transition;
+  position: relative;
+  line-height: 45px;
+  padding: 0 30px;
+  &:focus,&:active{
+    color: #fff;
+    outline: 0;
+  }
+  &:hover{
+    color: #fff;
+  }
+  &:hover:before{
+    opacity: 0.07;
+    visibility: visible;
+  }
+  &.btn--round:hover:before{
+    border-radius: 200px;
+  }
+}
+.btn.btn--white, .btn-light, .btn--light ,
+.btn.btn--white:hover, .btn-light:hover, .btn--light:hover {
+  background: #f9f9f9;
+  @extend .color-primary;
+}
+// btn default
+.btn--default{
+  line-height: 50px;
+}
+.btn-default{
+  line-height: 50px;
+}
+// btn lg
+.btn--lg, .btn-lg{
+  line-height: 50px;
+  font-size: 16px;
+  padding: 0 40px;
+}
+
+// btn md
+.btn--md, .btn-md{
+  line-height: 45px;
+  padding: 0 30px;
+}
+.btn--xs{
+  line-height: 36px;
+  font-size: 14px;
+  padding: 0 12px;
+
+}
+.btn--fullwidth{
+  width: 100%;
+}
+
+// btn sm
+.btn--sm, .btn-sm{
+  line-height: 40px;
+  padding: 0 20px;
+}
+
+//
+.btn--icon{
+  span{
+    margin-right: 5px;
+    line-height: inherit;
+    display: inline-block;
+  }
+}
+
+.btn--faq{
+  min-width: 140px;
+}
+
+.search-btn{
+  min-width: 223px;
+  border: 0;
+  border-radius: 4px;
+  transition: $transition-base;
+}
+

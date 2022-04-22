@@ -1,0 +1,115 @@
+// this file contains the style for table component
+/*****************************
+	-- TABLE
+*****************************/
+/**/
+.table{
+  margin-bottom: 0;
+  thead{
+    >tr {
+      >th {
+        color: $title-color;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 30px 0 30px 30px;
+        border: 0;
+        &:last-child{
+            padding-right: 28px !important;
+        }
+      }
+    }
+  }
+
+  tbody{
+    >tr{
+      border-bottom: 1px solid $border-color;
+      &:last-child{
+          border-bottom: 0;
+      }
+      >td{
+        padding: 20px 0 20px 28px;
+        font-size: 15px;
+        vertical-align: middle;
+        font-weight: 300;
+        color: #333;
+        &.author{
+          color: $title-color;
+          font-weight: 400;
+        }
+        &.detail a{
+          @extend .color-primary;
+          font-weight: 400;
+        }
+        &.type span{
+          line-height: 24px;
+          border-radius: 3px;
+          display: inline-block;
+          padding: 0 15px;
+          color: #fff;
+          font-weight: 400;
+          font-size: 12px;
+          &.sale{
+            @extend .bg-secondary;
+          }
+          &.purchase{
+            @extend .bg-warning;
+          }
+          &.credited{
+            @extend .bg-info;
+          }
+          &.withdrawal{
+            @extend .bg-danger;
+          }
+        }
+        &.price{
+            font-weight: 400;
+        }
+        &.earning{
+          @extend .color-primary;
+          &.subtract{
+            @extend .color-secondary;
+          }
+          font-weight: 400;
+        }
+        &.action {
+          padding: 0;
+          text-align: center;
+          a {
+            line-height: 34px;
+            padding: 0 15px;
+            display: inline-block;
+            margin-left: -4px;
+            text-transform: capitalize;
+            font-size: 15px;
+            font-weight: 400;
+            @extend .b-1-primary;
+            border-radius: 3px;
+            &:hover {
+              @extend .bg-primary;
+              color: #fff;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &.withdraw__table{
+    .pending > span, .paid > span{
+      font-size: 15px;
+      line-height: 32px;
+      padding: 0 20px;
+      font-weight: 400;
+      display: inline-block;
+      border-radius: 3px;
+    }
+    .pending > span{
+      @extend .bg-primary;
+      color: #fff;
+    }
+    .paid > span{
+      @extend .bg-secondary;
+      color: #fff;
+    }
+  }
+}

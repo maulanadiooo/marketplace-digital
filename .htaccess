@@ -1,0 +1,201 @@
+Options -Indexes
+<IfModule mod_expires.c>
+    ExpiresActive on
+ 
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+</IfModule>
+RewriteCond %{HTTP_HOST} ^www\.gubukdigital\.net$
+RewriteRule ^/?$ "https\:\/\/gubukdigital\.net\/" [R=301,L]
+
+RewriteEngine On
+ 
+RewriteCond %{HTTPS} off
+ 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+##### Redirect If QUERY_STRING Has SQL Injection To Honeypot — START
+
+#QUERY_STRING contains everything in the URL after the “?” ex.) mydomain.com/test.php?test=test
+
+#Excluded the commands like, version, update, insert, and set because they are common words and have caused false positives
+
+RewriteCond %{QUERY_STRING} !^$
+
+RewriteCond %{REQUEST_URI} !honeypot.php/
+
+RewriteCond %{QUERY_STRING} union [NC,OR]
+
+RewriteCond %{QUERY_STRING} select [NC,OR]
+
+RewriteCond %{QUERY_STRING} cast [NC,OR]
+
+RewriteCond %{QUERY_STRING} declare [NC,OR]
+
+RewriteCond %{QUERY_STRING} drop [NC,OR]
+
+RewriteCond %{QUERY_STRING} md5 [NC,OR]
+
+RewriteCond %{QUERY_STRING} benchmark [NC,OR]
+
+RewriteCond %{QUERY_STRING} table [NC,OR]
+
+RewriteCond %{QUERY_STRING} column [NC,OR]
+
+RewriteCond %{QUERY_STRING} distinct [NC,OR]
+
+RewriteCond %{QUERY_STRING} substr [NC,OR]
+
+RewriteCond %{QUERY_STRING} concat [NC,OR]
+
+RewriteCond %{QUERY_STRING} schema [NC,OR]
+
+RewriteCond %{QUERY_STRING} hex [NC,OR]
+
+RewriteCond %{QUERY_STRING} truncate [NC,OR]
+
+RewriteCond %{QUERY_STRING} convert [NC,OR]
+
+RewriteCond %{QUERY_STRING} exec [NC,OR]
+
+RewriteCond %{QUERY_STRING} passthru [NC,OR]
+
+RewriteCond %{QUERY_STRING} system [NC,OR]
+
+RewriteCond %{QUERY_STRING} popen [NC,OR]
+
+RewriteCond %{QUERY_STRING} proc [NC,OR]
+
+RewriteCond %{QUERY_STRING} load [NC,OR]
+
+RewriteCond %{QUERY_STRING} between [NC,OR]
+
+RewriteCond %{QUERY_STRING} null [NC,OR]
+
+RewriteCond %{QUERY_STRING} delay [NC,OR]
+
+RewriteCond %{QUERY_STRING} char [NC,OR]
+
+RewriteCond %{QUERY_STRING} sleep [NC,OR]
+
+RewriteCond %{ QUERY_STRING } schema [NC,OR]
+
+RewriteCond %{QUERY_STRING} unhex [NC]
+
+RewriteRule ^(.*)$ /honeypot.php/ [NC,L]
+
+Redirect If QUERY_STRING Has SQL Injection To Honeypot — END
+
+Options -MultiViews
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+</IfModule>
+
+RewriteEngine on
+RewriteRule ^categories/([^/\.]+)/?$ categories/q.php?category=$1 
+RewriteRule ^categories/([^/\.]+)/(\d+)$ /categories/q.php?category=$1&page=$2 [L]
+RewriteRule ^user/([^/\.]+)/?$ user/q.php?user=$1
+RewriteRule ^(.*)/product/(.*)$ /user/q.php?user=$1&page=$2 [L]
+RewriteRule ^(.*)/review/(.*)$ /user/q.php?user=$1&page_review=$2 [L]
+RewriteRule ^edit/([^/\.]+)/?$ my-product/edit.php?id=$1 
+RewriteRule ^edit-photo/([^/\.]+)/?$ setting/edit_photo.php?id=$1
+RewriteRule ^reset-pasword/([^/\.]+)/?$ setting/reset_pasword.php?id=$1
+RewriteRule ^edit-user/([^/\.]+)/?$ setting/edit_user.php?id=$1 
+RewriteRule ^status/(\d+)/(.*)$ /my-product/status.php?id=$1&status=$2 [L]
+RewriteRule ^deleted/(\d+)/(.*)$ /my-product/delete.php?id=$1&delete=$2 [L]
+RewriteRule ^product/(\d+)/(.*)$ /product/index.php?service=$1&product=$2 [L]
+RewriteRule ^my-sales/([^/\.]+)/?$ my-sales/index.php?query_status=$1 
+RewriteRule ^product-edit/([^/\.]+)/?$ my-product/add.php?id=$1 [L]
+RewriteRule ^show-sales/([^/\.]+)/?$ my-sales/show.php?query_id=$1 [L]
+RewriteRule ^send_product/(\d+)/(.*)$ /my-sales/send.php?query_id=$1 [L]
+RewriteRule ^send_review/([^/\.]+)/?$ my-sales/review-send.php?query_id=$1 [L]
+RewriteRule ^like-product/(\d+)/(.*)$ /product/favorite-like.php?query_id=$1&status=$2 [L]
+RewriteRule ^conversation/([^/\.]+)/?$ message/pesan_detail.php?username=$1 [L]
+RewriteRule ^my-revenue/page/([^/\.]+)/?$ my-revenue/index.php?page=$1 [L]
+RewriteRule ^my-orders/([^/\.]+)/?$ my-orders/index.php?query_status=$1 
+RewriteRule ^checkout/([^/\.]+)/?$ checkout/index.php?query_id=$1 
+RewriteRule ^checkout-invoice/([^/\.]+)/?$ checkout/invoice.php?query_invoice=$1
+RewriteRule ^buy/([^/\.]+)/?$ product/action_buy.php?query_id=$1
+RewriteRule ^cart-delete/([^/\.]+)/?$ cart/delete.php?query_id=$1
+RewriteRule ^payment-history/([^/\.]+)/?$ payment-history/edit-here.php?page=$1
+RewriteRule ^payment-history/$ payment-history/edit-here.php
+RewriteRule ^notifikasi/$ notifikasi/edit-here.php
+RewriteRule ^notifikasi/([^/\.]+)/?$ notifikasi/edit-here.php?page=$1
+RewriteRule ^show-sales/(\d+)/(.*)$ /my-sales/show.php?query_id=$1&notif_id=$2 [L]
+RewriteRule ^signin/([^/\.]+)/?$ signin/index.php?redirect=$1
+RewriteRule ^tag/([^/\.]+)/?$ tags/index.php?query_tagss=$1
+RewriteRule ^checkout/perfectmoney/([^/\.]+)/?$ checkout/perfectmoney/index.php?query_invoice_pm=$1
+RewriteRule ^checkout/midtrans/([^/\.]+)/?$ checkout/midtrans/index.php?query_invoice_pm=$1
+RewriteRule ^invoice_depo/([^/\.]+)/?$ add-balance/invoice_depo.php?query_id_depo=$1
+RewriteRule ^admin-ganteng/$ admin/edit-here.php
+RewriteRule ^page/([^/\.]+)/?$ index.php?page=$1
+RewriteRule ^request/$ request/edit-here.php
+RewriteRule ^request/([^/\.]+)/?$ request/edit-here.php?page=$1
+RewriteRule ^message/([^/\.]+)/?$ message/index.php?page=$1
+RewriteRule ^checkout/paypal/([^/\.]+)/?$ checkout/paypal/index.php?query_invoice_paypal=$1
+RewriteRule ^deposit-history/$ deposit-history/edit-here.php
+RewriteRule ^deposit-history/([^/\.]+)/?$ deposit-history/edit-here.php?page=$1
+RewriteRule ^my-orders/cancel/([^/\.]+)/?$ my-orders/cancel&page=$1
+RewriteRule ^my-orders/active/([^/\.]+)/?$ my-orders/active&page=$1
+RewriteRule ^my-orders/success/([^/\.]+)/?$ my-orders/success&page=$1
+RewriteRule ^my-orders/complete/([^/\.]+)/?$ my-orders/complete&page=$1
+RewriteRule ^my-sales/complete/([^/\.]+)/?$ my-sales/complete&page=$1
+RewriteRule ^my-sales/active/([^/\.]+)/?$ my-sales/active&page=$1
+RewriteRule ^my-sales/success/([^/\.]+)/?$ my-sales/success&page=$1
+RewriteRule ^my-sales/cancel/([^/\.]+)/?$ my-sales/cancel&page=$1
+RewriteRule ^my-product/([^/\.]+)/?$ my-product/?page=$1
+RewriteRule ^favorite/$ favorite/q.php
+RewriteRule ^favorite/([^/\.]+)/?$ favorite/q.php?page=$1
+RewriteRule ^administrator/users/$ administrator/users/edit-here.php
+RewriteRule ^administrator/settings/$ administrator/settings/edit-here.php
+RewriteRule ^administrator/pages/$ administrator/pages/edit-here.php
+RewriteRule ^administrator/services/$ administrator/services/edit-here.php
+RewriteRule ^administrator/services-pending/$ administrator/services-pending/edit-here.php
+RewriteRule ^administrator/withdraw-request/$ administrator/withdraw-request/edit-here.php
+RewriteRule ^administrator/category/$ administrator/settings/category.php
+RewriteRule ^administrator/withdraw-history/$ administrator/withdraw-request/history.php
+RewriteRule ^administrator/orders/$ administrator/orders/edit-here.php
+RewriteRule ^administrator/auth/signin/$ administrator/auth/signin-edit.php
+RewriteRule ^administrator/bank-pembayaran/$ administrator/settings/bank-bayar.php
+RewriteRule ^administrator/bank-withdraws/$ administrator/settings/bank-wd.php
+RewriteRule ^administrator/request-pending/$ administrator/services/request-product.php
+RewriteRule ^administrator/request/$ administrator/services/all-request.php
+RewriteRule ^administrator/deposit-history/$ administrator/deposit/history.php
+RewriteRule ^administrator/log-pembayaran/$ administrator/deposit/log-pembayaran.php
+RewriteRule ^administrator/report-chat/$ administrator/report/chat-report.php
+RewriteRule ^administrator/user-chats/$ administrator/users/user-chats.php
+RewriteRule ^administrator/smtp/$ administrator/settings/smtp-settings.php
+RewriteRule ^administrator/mail_template/$ administrator/mail_template/edit-here.php
+RewriteRule ^administrator/payment-auto/$ administrator/payment-auto/edit-here.php
+RewriteRule ^administrator/mail-template/$ administrator/mail_template/edit-here.php
+RewriteRule ^administrator/payment-auto/$ administrator/payment-auto/edit-here.php
+RewriteRule ^administrator/mail-template/$ administrator/mail_template/edit-here.php
+RewriteRule ^checkout-register/([^/\.]+)/?$ checkout/checkout-register.php?query_id=$1
+RewriteRule ^checkout-action/([^/\.]+)/?$ checkout/checkout-action.php?query_invoice=$1
+RewriteRule ^checkout/perfectmoney-usd/([^/\.]+)/?$ checkout/perfectmoney/no-regis.php?query_invoice_pm=$1
+RewriteRule ^checkout/paypal-usd/([^/\.]+)/?$ checkout/paypal/no-regis.php?query_invoice_paypal=$1
+RewriteRule ^buy-premium/(\d+)/(.*)$ /my-product/buy-premium.php?query_id=$1&buy=$2 [L]
+RewriteRule ^buy-featured/(\d+)/(.*)$ /my-product/buy-featured.php?query_id=$1&buy=$2 [L]
+RewriteRule ^checkout-fitur/(\d+)/(.*)$ /my-product/checkout-fitur.php?query_id=$1&action=$2 [L]
+RewriteRule ^invoice-fitur/([^/\.]+)/?$ my-product/invoice-fitur.php?query_invoice=$1
+
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW ERRORPAGEID:zuWyRa
+ErrorDocument 404 /404.php
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE zuWyRa:ERRORPAGEID
+
+
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW ERRORPAGEID:aQeLum
+ErrorDocument 403 /404.php
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE aQeLum:ERRORPAGEID
+

@@ -1,0 +1,82 @@
+/*****************************
+	Accordion Styles
+*****************************/
+.accordion{
+  .card{
+    margin-bottom: 20px;
+    &:last-child{
+      margin-bottom: 0;
+    }
+  }
+  .card-body{
+    border-bottom: 1px solid $border-color;
+  }
+  .accordion__single{
+    margin-bottom: 20px;
+  }
+  .card,
+  .accordion__single{
+    border: 1px solid $border-color;
+    border-radius: 0;
+    .card-header{
+      background: #fff;
+      padding: 0;
+    }
+    h4, h5{
+      a, button{
+        line-height: 26px;
+        display: block;
+        color: #333;
+        font-weight: 300;
+        font-size: 18px;
+        padding: 15px 27px 15px 80px;
+        position: relative;
+        i.lnr{
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 60px;
+          height: 100%;
+          border-right: 1px solid $border-color;
+          padding-top: 18px;
+          text-align: center;
+          transition:$transition;
+        }
+        &.active{
+            i.lnr{
+                border-color:#8a95e7;
+            }
+        }
+      }
+      button{
+        padding: 15px 27px 15px 27px;
+        width: 100%;
+        text-align: left;
+        text-decoration: none;
+        &:hover:before{
+          content: none;
+        }
+      }
+    }
+    .single_acco_title{
+      a{
+        transition: $transition;
+        &.active {
+          @extend .bg-primary;
+          color: #fff;
+        }
+      }
+    }
+    .panel-body{
+        p{
+            margin: 25px 30px;
+        }
+    }
+  }
+  .single_accordion_body{
+    padding: 27px 30px;
+    p{
+      margin: 0;
+    }
+  }
+}

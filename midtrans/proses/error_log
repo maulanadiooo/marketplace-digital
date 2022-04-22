@@ -1,0 +1,118 @@
+[29-Apr-2021 06:31:20 Asia/Jakarta] PHP Warning:  require_once(/home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses../lib/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 7
+[29-Apr-2021 06:31:20 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses../lib/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 7
+[29-Apr-2021 06:32:59 Asia/Jakarta] PHP Warning:  require_once(/home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses../lib/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 7
+[29-Apr-2021 06:32:59 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses../lib/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 7
+[29-Apr-2021 06:34:32 Asia/Jakarta] PHP Notice:  Undefined variable: base_url in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 137
+[29-Apr-2021 06:34:32 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 137
+[29-Apr-2021 06:34:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Midtrans\PHPMailer' not found in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 142
+[29-Apr-2021 06:35:43 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 23
+[29-Apr-2021 06:35:43 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 24
+[29-Apr-2021 06:35:43 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 129
+[29-Apr-2021 06:35:43 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 134
+[29-Apr-2021 06:35:43 Asia/Jakarta] PHP Notice:  Undefined variable: base_url in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 137
+[29-Apr-2021 06:35:43 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 137
+[29-Apr-2021 06:35:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Midtrans\PHPMailer' not found in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 142
+[29-Apr-2021 07:01:14 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 20
+[29-Apr-2021 07:01:14 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 21
+[29-Apr-2021 07:01:14 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 126
+[29-Apr-2021 07:01:14 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 131
+[29-Apr-2021 07:01:14 Asia/Jakarta] PHP Notice:  Undefined index: author in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 132
+[29-Apr-2021 07:01:14 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 133
+[29-Apr-2021 07:05:49 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 20
+[29-Apr-2021 07:05:49 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 21
+[29-Apr-2021 07:05:49 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 126
+[29-Apr-2021 07:05:49 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 131
+[29-Apr-2021 07:05:49 Asia/Jakarta] PHP Notice:  Undefined index: author in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 132
+[29-Apr-2021 07:05:49 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 133
+[29-Apr-2021 07:07:06 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 20
+[29-Apr-2021 07:07:06 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 21
+[29-Apr-2021 07:07:06 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 126
+[29-Apr-2021 07:07:06 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 131
+[29-Apr-2021 07:07:06 Asia/Jakarta] PHP Notice:  Undefined index: author in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 132
+[29-Apr-2021 07:07:06 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 133
+[29-Apr-2021 07:10:32 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 20
+[29-Apr-2021 07:10:32 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 21
+[29-Apr-2021 07:10:32 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 126
+[29-Apr-2021 07:10:32 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 131
+[29-Apr-2021 07:10:32 Asia/Jakarta] PHP Notice:  Undefined index: author in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 132
+[29-Apr-2021 07:10:32 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 133
+[08-Jul-2021 06:04:46 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 24
+[08-Jul-2021 06:04:46 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 25
+[11-Jul-2021 21:07:26 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('1977177f-dc10-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 21:08:37 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('1977177f-dc10-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 21:12:35 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('68387cf3-aea6-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 21:13:38 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('68387cf3-aea6-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 21:14:33 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('4ec5872c-6f67-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 21:15:56 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('a31d4e43-1eca-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 21:16:23 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('4ec5872c-6f67-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 21:16:51 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', false, false)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.mid...', 'Mid-server-0lOQ...', false)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/Notification.php(26): Midtrans\Transaction::status('a31d4e43-1eca-4...')
+#3 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php(10): Midtrans\Notification->__construct()
+#4 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[13-Jul-2021 07:13:25 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 151
+[13-Jul-2021 07:13:25 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 152
+[13-Jul-2021 07:13:25 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 228
+[13-Jul-2021 07:13:25 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 233
+[23-Jul-2021 11:13:28 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 151
+[23-Jul-2021 11:13:29 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 152
+[23-Jul-2021 11:13:29 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 225
+[23-Jul-2021 11:13:29 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/terimanotifikasi.php on line 229

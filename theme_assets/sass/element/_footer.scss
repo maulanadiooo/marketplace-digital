@@ -1,0 +1,148 @@
+/***************************************
+    Start Footer Area
+*****************************************/
+.footer-big {
+  padding: 100px 0 60px 0;
+  .footer-widget {
+    margin-bottom: 40px;
+  }
+}
+
+.footer--light {
+  background: #e7e8ed;
+}
+
+.footer-big {
+  p, ul li, .footer-menu ul li a {
+    color: $text-color2;
+  }
+  .footer-menu ul li a {
+    &:hover {
+      @extend .color-primary;
+    }
+  }
+}
+
+.info-contact {
+  margin-top: 21px;
+  li {
+    font-size: 16px;
+    margin-bottom: 12px;
+    .info-icon, .info {
+      display: inline-block;
+      vertical-align: middle;
+    }
+    .info-icon {
+      color: #fff;
+    }
+    .info {
+      width: calc(100% - 30px);
+      padding-left: 8px;
+    }
+  }
+}
+
+.info__logo {
+  margin-bottom: 25px;
+}
+
+.footer-menu {
+  padding-left: 48px;
+  ul li {
+    a {
+      font-size: 15px;
+      line-height: 32px;
+      transition: $transition;
+      &:hover {
+        @extend .color-primary;
+      }
+    }
+  }
+}
+
+.footer-menu--1 {
+  width: 100%;
+}
+
+.footer-widget-title {
+  line-height: 42px;
+  margin-bottom: 10px;
+}
+
+// newsetter area
+.field-wrapper {
+  position: relative;
+  margin-top: 32px;
+  margin-bottom: 48px;
+  .relative-field {
+    line-height: 50px;
+    height: 50px;
+  }
+  .btn {
+    position: absolute;
+    right: 0;
+    height: 100%;
+    padding: 0 30px;
+    top: 0;
+  }
+}
+
+// mini footer area css
+.mini-footer {
+  background: #192027;
+  text-align: center;
+  padding: 32px 0;
+  p {
+    margin: 0;
+    line-height: 26px;
+    font-size: 15px;
+    color: #999;
+    a {
+      @extend .color-primary;
+      &:hover {
+        @extend .color-secondary;
+      }
+    }
+  }
+}
+
+.mini-footer2 {
+  text-align: left;
+  .copyright-text {
+    padding-top: 8px;
+  }
+  .social {
+    text-align: right;
+    width: 100%;
+  }
+}
+
+//Widget About
+.widget-about {
+  img {
+    display: block;
+    margin-bottom: 30px;
+    width: auto;
+  }
+  p {
+    font-weight: 400;
+  }
+  .contact-details {
+    margin: 30px 0 0 0;
+    li {
+      margin-bottom: 10px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+      span {
+        padding-right: 12px;
+      }
+      a {
+        @extend .color-primary;
+        &:hover {
+          @extend .color-secondary;
+        }
+      }
+    }
+  }
+}

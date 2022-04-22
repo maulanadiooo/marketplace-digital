@@ -1,0 +1,39 @@
+<?php
+require '../web.php';
+require '../lib/is_login.php';
+require '../lib/result.php';
+if (!isset($_SESSION['login'])) {
+	$_SESSION['result'] = array('alert' => 'danger', 'title' => 'Otentikasi dibutuhkan!', 'msg' => 'Silahkan masuk ke akun Anda.');
+	exit(header("Location: ".$config['web']['base_url']."signin/"));
+}
+    if (!isset($_SESSION['login'])) {
+		exit("No direct script access allowed!1");
+	}
+	if ($model->db_query($db, "*", "user", "id = '".$_SESSION['login']."'")['count'] == 0) {
+		exit("No direct script access allowed!2");
+	}
+	if ($model->db_query($db, "*", "cart", "buyer_id = '".$_SESSION['login']."'")['count'] == 0) {
+		exit("No direct script access allowed!2");
+	}
+	
+	if (!isset($_GET['query_id'])) {
+		exit("No direct script access allowed!3");
+	}
+	
+	$data_target = $model->db_query($db, "*", "cart", "id = '".mysqli_real_escape_string($db, $_GET['query_id'])."' AND status in ('waiting', 'pending') AND buyer_id = '".$login['id']."' ");
+	if ($data_target['count'] == 0) {
+		exit("No direct script access allowed!5");
+	} else {
+	    if ($model->db_delete($db, "cart", "id = '".mysqli_real_escape_string($db, $_GET['query_id'])."'") == true) {
+		    $model->db_delete($db, "orders", "kode_unik = '".$data_target['rows']['kode_unik']."'");
+			$_SESSION['result'] = array('alert' => 'success', 'title' => 'Berhasil!', 'msg' => 'Sudah Dihapus dari Keranjang');
+    		 exit(header("Location: ".$config['web']['base_url']."cart/"));
+		} else {
+			$_SESSION['result'] = array('alert' => 'danger', 'title' => 'Gagal!', 'msg' => 'Gagal Hapus data!');
+    		 exit(header("Location: ".$config['web']['base_url']."cart/"));
+		}
+	}
+	
+	
+	require '../lib/result.php';
+    

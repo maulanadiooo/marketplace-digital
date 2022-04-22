@@ -1,0 +1,57 @@
+/*
+this file contains the styles for the progressbar components
+*/
+/*****************************
+	-- PROGRESSBAR
+*****************************/
+.progress{
+  background: #eff1f5;
+  box-shadow: none;
+  .progress-bar{
+    border-radius: 200px;
+  }
+}
+.progress-single{
+  position: relative;
+  margin-bottom: 35px;
+  &:last-child{
+    margin-bottom: 0;
+  }
+  .progress_wrapper{
+    padding-right: 70px;
+    .labels{
+      p{
+        margin-bottom: 10px;
+        font-size: 14px;
+      }
+    }
+  }
+  .upload_cross{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    transition: $transition-base;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    span{
+      .svg{
+        width: 10px;
+        height: 10px;
+        fill: $danger;
+        transition: $transition-base;
+      }
+    }
+    &:hover{
+      @extend .bg-danger;
+      cursor: pointer;
+      span .svg{
+        fill: #fff;
+      }
+    }
+  }
+}

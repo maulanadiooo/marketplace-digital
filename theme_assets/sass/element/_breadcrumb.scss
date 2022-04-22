@@ -1,0 +1,106 @@
+/*****************************
+	--- BREADCRUMB
+*****************************/
+.breadcrumb-area{
+  padding-top: 57px!important;
+  padding-bottom: 57px;
+  @extend .bg-primary;
+  .breadcrumb-contents{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+    .breadcrumb ul{
+        display: block;
+        width: 100%;
+    }
+  .breadcrumb ul li a{
+    line-height: initial;
+  }
+  .page-title{
+    color: #fff;
+    font-weight: 500;
+    margin: 4px 0;
+  }
+  &.breadcrumb--center{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 27px;
+    .page_title{
+      padding-top: 30px;
+      padding-bottom: 47px;
+      h1{
+        color: #fff;
+        line-height: 52px;
+      }
+      p{
+        color: #f3f3f8;
+        font-size: 36px;
+        line-height: 52px;
+        font-weight: 500;
+      }
+      p.subtitle{
+        font-size: 20px;
+      }
+    }
+    .breadcrumb{
+      padding-bottom: 0;
+    }
+  }
+}
+.breadcrumb{
+  padding: 0;
+  background: none;
+  margin: 14px 0;
+  ul li{
+    display: inline-block;
+    &:after{
+      content: '/';
+      color: #fff;
+      padding: 0 7px;
+    }
+    a{
+      font-size: 15px;
+      line-height: 70px;
+      color: #fff;
+      &:hover{
+        @extend .color-secondary;
+      }
+    }
+    &:last-child{
+      &:after{
+        display: none;
+      }
+    }
+    &.active a{
+      color: #bfcad7;
+      &:hover{
+        @extend .color-secondary;
+      }
+    }
+  }
+}
+
+.search--doc{
+  margin-bottom: 30px;
+  .form-group{
+    margin: 0;
+    position: relative;
+    input{
+      border-radius: 3px;
+    }
+    button{
+      position: absolute;
+      right: 0;
+      top: 0;
+      border-radius: 0 3px 3px 0;
+      height: 100%;
+      padding: 0 25px;
+      @extend .bg-secondary;
+      color: #fff;
+      border: 0 none;
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,77 @@
+/*
+content blocks scss
+*/
+
+.content-block-page [class^="content_block"] {
+  margin-bottom: 50px !important;
+}
+
+/***************************************
+   START ABOUT AND MISSION AREA
+****************************************/
+.content_block1 {
+  position: relative;
+  width: 100%;
+  padding: 100px 0;
+  .content_area {
+    .content_area--title {
+      line-height: 46px;
+      margin-bottom: 30px;
+      color: #000;
+      .highlight {
+        @extend .color-primary;
+      }
+    }
+  }
+  .content_image {
+    position: absolute;
+    right: 0;
+    height: 100%;
+    width: 50%;
+    top: 0;
+  }
+}
+
+.content_block2 {
+  background: $bgcolor2;
+  padding: 100px 0;
+  @extend .content_block1;
+  .content_area2 {
+    @extend .content_area;
+    .content_area2--title {
+      @extend .content_area--title;
+    }
+  }
+  .content_image2 {
+    @extend .content_image;
+    left: 0;
+  }
+}
+
+.content_block3, .content_block6 {
+  padding: 100px 0;
+  h2 {
+    line-height: 46px;
+    color: #000000;
+    padding-bottom: 30px;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  .btn {
+    margin-top: 45px;
+  }
+}
+
+.content_block4{
+  @extend .content_block3;
+}
+
+.content_block1, .content_block2, .content_block3, .content_block5{
+  img{
+    width: 100%;
+  }
+  p{
+    margin-bottom: 0;
+  }
+}

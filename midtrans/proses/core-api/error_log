@@ -1,0 +1,652 @@
+[11-Jul-2021 14:01:11 UTC] PHP Fatal error:  Uncaught Exception: Midtrans Error (404): Transaction doesn't exist. in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(22): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', false, false)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/Transaction.php(23): Midtrans\ApiRequestor::get('https://api.san...', 'SB-Mid-server-c...', false)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/transaction-manipulation.php(23): Midtrans\Transaction::status('111')
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 14:07:24 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 85
+[11-Jul-2021 14:12:33 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:14:31 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:15:55 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:17:12 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:22:15 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:31:33 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:34:01 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:41:39 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 14:46:00 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 22:35:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:35:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:35:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:35:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:35:43 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/proses.php(68): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:38:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:38:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:38:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:38:43 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:38:43 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/proses.php(63): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:40:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Access to undeclared static property: Midtrans\Config::$paymentIdempotencyKey in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:99
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(40): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/proses.php(63): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 99
+[11-Jul-2021 22:41:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:41:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:41:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:41:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:41:25 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/proses.php(68): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 15:41:45 UTC] PHP Notice:  Undefined index: token_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 86
+[11-Jul-2021 22:44:58 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:44:58 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:44:58 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:44:58 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:44:58 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/proses.php(68): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:48:09 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 59
+[11-Jul-2021 22:48:09 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:48:09 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:48:09 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:48:09 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:48:09 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(80): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:49:41 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 59
+[11-Jul-2021 22:49:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 91
+[11-Jul-2021 22:51:25 Asia/Jakarta] PHP Notice:  Undefined variable: transaction_data in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 38
+[11-Jul-2021 22:51:25 Asia/Jakarta] PHP Warning:  array_replace_recursive(): Argument #2 is not an array in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php on line 29
+[11-Jul-2021 22:51:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:51:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:51:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:51:25 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:51:25 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', NULL, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', NULL)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(38): Midtrans\CoreApi::charge(NULL)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:51:48 Asia/Jakarta] PHP Notice:  Undefined variable: transaction_data in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 38
+[11-Jul-2021 22:51:48 Asia/Jakarta] PHP Warning:  array_replace_recursive(): Argument #2 is not an array in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php on line 29
+[11-Jul-2021 22:51:49 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:51:49 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:51:49 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:51:49 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:51:49 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', NULL, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', NULL)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(38): Midtrans\CoreApi::charge(NULL)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Notice:  Undefined index: oid in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 20
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Notice:  Undefined index: amount in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 21
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Notice:  Undefined variable: transaction_data in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 38
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Warning:  array_replace_recursive(): Argument #2 is not an array in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php on line 29
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 102
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 103
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Notice:  Trying to get property 'status_message' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Notice:  Trying to get property 'status_code' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:51:52 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error ():  in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', NULL, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', NULL)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(38): Midtrans\CoreApi::charge(NULL)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:53:14 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(42): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:53:17 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(42): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 22:53:59 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(43): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:01:27 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:01:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): One or more parameters in the payload is invalid.. Validation Messages (item_details.price is required, transaction_details.gross_amount is not equal to the sum of item_details) in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(90): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:01:39 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[11-Jul-2021 23:01:39 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:01:39 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:01:39 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): One or more parameters in the payload is invalid.. Validation Messages (transaction_details.gross_amount is not equal to the sum of item_details, item_details.price is required) in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(90): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:01:50 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 51
+[11-Jul-2021 23:01:50 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 69
+[11-Jul-2021 23:01:50 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 51
+[11-Jul-2021 23:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 69
+[11-Jul-2021 23:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:02:33 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(87): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:03:01 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:03:01 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 51
+[11-Jul-2021 23:03:01 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 69
+[11-Jul-2021 23:03:01 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:03:01 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(87): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:03:49 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:03:49 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 51
+[11-Jul-2021 23:03:49 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 69
+[11-Jul-2021 23:03:49 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:03:50 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(87): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:04:15 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:04:15 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 51
+[11-Jul-2021 23:04:15 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 69
+[11-Jul-2021 23:04:15 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:04:50 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:04:50 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 51
+[11-Jul-2021 23:04:50 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 69
+[11-Jul-2021 23:04:50 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:04:50 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(87): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:05:29 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:05:55 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:06:23 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:06:23 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[11-Jul-2021 23:06:23 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:06:23 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:06:24 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(88): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:07:00 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:07:00 Asia/Jakarta] PHP Warning:  Use of undefined constant GD62866862 - assumed 'GD62866862' (this will throw an Error in a future version of PHP) in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 38
+[11-Jul-2021 23:07:00 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[11-Jul-2021 23:07:00 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:07:00 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:07:00 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(88): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:08:01 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:08:01 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[11-Jul-2021 23:08:01 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:08:01 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:08:01 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(88): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:08:16 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:08:16 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[11-Jul-2021 23:08:16 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:08:16 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:13:25 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:13:25 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 51
+[11-Jul-2021 23:13:25 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 69
+[11-Jul-2021 23:13:25 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[11-Jul-2021 23:13:25 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(87): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:14:37 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:14:37 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:14:37 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (413): Payload format is not supported. in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(89): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:14:49 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:14:49 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:14:49 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:14:49 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:14:49 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(89): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:15:03 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:17:40 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:17:40 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 54
+[11-Jul-2021 23:17:40 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:17:40 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[11-Jul-2021 23:17:41 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(90): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: buyer_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 24
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 25
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 47
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: price in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 48
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: quantity in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 49
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: nama_layanan in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 50
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 54
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 59
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 60
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 61
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined index: no_hp in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 62
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:18:45 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[11-Jul-2021 23:19:52 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:19:52 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:19:52 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:20:37 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:20:37 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:20:37 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:20:37 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): One or more parameters in the payload is invalid.. Validation Messages (transaction_details.gross_amount is not equal to the sum of item_details, item_details.price is required) in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(91): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:21:13 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:21:13 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:21:13 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:21:13 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(89): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:21:54 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:21:54 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:21:54 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:24:06 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:24:06 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:24:06 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:24:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 102
+[11-Jul-2021 23:24:55 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:24:55 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:24:55 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:24:55 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(89): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:25:01 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:25:01 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:25:01 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:25:01 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(89): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:25:38 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:25:38 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:25:38 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:27:36 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:27:36 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:27:36 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:27:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 96
+[11-Jul-2021 23:28:31 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:28:31 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:28:31 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:29:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::va_numbers() in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 96
+[11-Jul-2021 23:30:00 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:30:00 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:30:00 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:30:00 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (406): The request could not be completed due to a conflict with the current state of the target resource, please try again in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(89): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[11-Jul-2021 23:30:16 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:30:16 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:30:16 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:30:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 96
+[11-Jul-2021 23:32:05 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:32:05 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:32:05 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:33:07 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:34:41 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:34:41 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:34:41 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:34:41 Asia/Jakarta] PHP Notice:  Trying to get property 'va_number' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 96
+[11-Jul-2021 23:35:27 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:35:27 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:35:27 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:35:27 Asia/Jakarta] PHP Notice:  Trying to get property 'fetch_object' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 96
+[11-Jul-2021 23:35:27 Asia/Jakarta] PHP Notice:  Trying to get property 'va_number' of non-object in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 96
+[11-Jul-2021 23:36:13 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:36:13 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:36:13 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:40:54 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:42:39 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:42:39 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:42:39 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:44:34 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:44:34 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:44:34 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:46:09 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:46:09 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:46:09 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:48:04 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:48:04 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:48:04 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[11-Jul-2021 23:49:20 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[11-Jul-2021 23:49:20 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[11-Jul-2021 23:49:20 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[12-Jul-2021 06:36:17 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[12-Jul-2021 06:36:17 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[12-Jul-2021 06:36:17 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[12-Jul-2021 06:36:17 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[12-Jul-2021 06:36:18 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (413): Payload format is not supported. in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(88): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 06:36:52 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[12-Jul-2021 06:36:52 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[12-Jul-2021 06:36:52 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[12-Jul-2021 06:38:08 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[12-Jul-2021 06:38:08 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[12-Jul-2021 06:38:08 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[12-Jul-2021 06:38:08 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[12-Jul-2021 06:45:24 Asia/Jakarta] PHP Notice:  Undefined index: action in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 22
+[12-Jul-2021 06:45:24 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[12-Jul-2021 06:45:24 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[12-Jul-2021 06:45:24 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[12-Jul-2021 06:45:24 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (400): One or more parameters in the payload is invalid., [transaction_details.gross_amount is required]. Validation Messages (transaction_details.gross_amount is required) in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php(101): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/jombietech.com/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 06:46:11 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 53
+[12-Jul-2021 06:46:11 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[12-Jul-2021 06:46:11 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/jombietech.com/public_html/midtrans/proses/core-api/checkout-process.php on line 72
+[12-Jul-2021 07:56:53 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 07:56:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 07:56:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 07:56:53 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 07:56:53 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 07:56:53 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(103): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:00:32 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[12-Jul-2021 08:00:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[12-Jul-2021 08:00:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[12-Jul-2021 08:00:32 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[12-Jul-2021 08:00:32 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[12-Jul-2021 08:00:32 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(100): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:01:07 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[12-Jul-2021 08:01:07 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[12-Jul-2021 08:01:07 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 52
+[12-Jul-2021 08:01:07 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 70
+[12-Jul-2021 08:01:07 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 71
+[12-Jul-2021 08:01:07 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(100): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:03:10 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(68): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:06:18 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(54): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:06:19 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(54): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:08:53 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:08:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:08:53 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:08:53 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:08:53 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:08:53 Asia/Jakarta] PHP Notice:  Undefined variable: now in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 117
+[12-Jul-2021 08:11:47 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:11:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:11:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:11:47 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:11:47 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:11:47 Asia/Jakarta] PHP Notice:  Undefined variable: now in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 117
+[12-Jul-2021 08:14:01 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:01 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:01 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:01 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:14:01 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:14:01 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(103): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:14:40 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:40 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:40 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:40 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:14:40 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:14:41 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(103): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:14:50 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:14:50 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:14:50 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:14:50 Asia/Jakarta] PHP Notice:  Undefined variable: now in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 117
+[12-Jul-2021 08:16:02 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:16:02 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:16:02 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:16:02 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:16:02 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:16:02 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(103): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:17:30 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:17:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:17:30 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:17:30 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:17:30 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:17:31 Asia/Jakarta] PHP Notice:  Undefined variable: now in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 117
+[12-Jul-2021 08:19:35 Asia/Jakarta] PHP Notice:  Undefined variable: website in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:19:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:19:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 55
+[12-Jul-2021 08:19:35 Asia/Jakarta] PHP Notice:  Undefined variable: billing_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 73
+[12-Jul-2021 08:19:35 Asia/Jakarta] PHP Notice:  Undefined variable: shipping_address in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 74
+[12-Jul-2021 08:19:35 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (401): Transaction cannot be authorized with the current client/server key. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'SB-Mid-server-c...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'SB-Mid-server-c...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(103): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:20:50 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(72): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:28:22 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (402): Payment channel is not activated. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(72): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[12-Jul-2021 08:29:55 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (401): Transaction cannot be authorized with the current client/server key. in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.san...', 'Mid-server-0lOQ...', Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.san...', 'Mid-server-0lOQ...', Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(72): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[23-Jul-2021 10:56:53 Asia/Jakarta] PHP Notice:  Undefined variable: server_keys in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 10
+[23-Jul-2021 10:56:53 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$status_message in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[23-Jul-2021 10:56:53 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (401):  in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', NULL, Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', NULL, Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(73): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[23-Jul-2021 10:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: server_keys in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 10
+[23-Jul-2021 10:57:21 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$status_message in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[23-Jul-2021 10:57:21 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (401):  in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', NULL, Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', NULL, Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(73): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[23-Jul-2021 10:57:27 Asia/Jakarta] PHP Notice:  Undefined variable: server_keys in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 10
+[23-Jul-2021 10:57:27 Asia/Jakarta] PHP Notice:  Undefined property: stdClass::$status_message in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 104
+[23-Jul-2021 10:57:27 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Midtrans Error (401):  in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php:111
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php(34): Midtrans\ApiRequestor::remoteCall('https://api.mid...', NULL, Array, true)
+#1 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/CoreApi.php(44): Midtrans\ApiRequestor::post('https://api.mid...', NULL, Array)
+#2 /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php(73): Midtrans\CoreApi::charge(Array)
+#3 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/Midtrans/ApiRequestor.php on line 111
+[23-Jul-2021 10:58:28 Asia/Jakarta] PHP Notice:  Undefined variable: now in /home/u526150100/domains/gubukdigital.net/public_html/midtrans/proses/core-api/checkout-process.php on line 86

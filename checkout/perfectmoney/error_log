@@ -1,0 +1,116 @@
+[13-Feb-2021 09:58:30 Asia/Jakarta] PHP Warning:  include(../vendor/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 208
+[13-Feb-2021 09:58:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 208
+[13-Feb-2021 09:58:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php:215
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php(80): kirim_email('julioharvian@gm...', 'maulanadioo', '<html>\r\n\r\n<body...', 'Pembayaran Berh...')
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 215
+[13-Feb-2021 10:37:45 Asia/Jakarta] PHP Warning:  include(../smsgatewayme/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 248
+[13-Feb-2021 10:37:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../smsgatewayme/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 248
+[13-Feb-2021 10:37:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'SMSGatewayMe\Client\Configuration' not found in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php:251
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php(158): kirim_sms('6281275351256', 'Halo maulanadio...')
+#1 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 251
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 30
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: jangka_waktu in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 31
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 39
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 45
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: kode_unik in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 47
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 50
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: buyer_id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 56
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: total_price_admin in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 57
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 58
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: nama_layanan in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 58
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: buyer_id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 63
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: author in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 64
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: service_id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 65
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 67
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: buyer_id in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 80
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 81
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 82
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: kode_invoice in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 83
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: kode_invoice in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 84
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: total_price_admin in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 84
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: nama_layanan in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 84
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: price in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 84
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Notice:  Undefined index: quantity in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 84
+[13-Feb-2021 10:41:01 Asia/Jakarta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/u526150100/domains/gubukdigital.net/public_html/lib/phpmailer/src/PHPMailer.php:1088
+Stack trace:
+#0 /home/u526150100/domains/gubukdigital.net/public_html/lib/phpmailer/src/PHPMailer.php(1010): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php(102): PHPMailer\PHPMailer\PHPMailer->addAddress('', NULL)
+#2 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/lib/phpmailer/src/PHPMailer.php on line 1088
+[13-Feb-2021 10:42:20 Asia/Jakarta] Pembayaran PM Telah berhasil diverifikasi invoice GD492439
+[09-Jul-2021 07:42:50 Asia/Jakarta] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 26
+[09-Jul-2021 07:42:50 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 26
+[09-Jul-2021 07:42:50 Asia/Jakarta] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/terima.php on line 27
+[09-Jul-2021 07:42:50 Asia/Jakarta] PHP Warning:  openssl_decrypt() expects parameter 1 to be string, array given in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 180
+[09-Jul-2021 00:44:30 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:30 UTC] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:30 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 5
+[09-Jul-2021 00:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:44:48 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:48 UTC] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:48 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 5
+[09-Jul-2021 00:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:44:49 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:49 UTC] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:49 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 5
+[09-Jul-2021 00:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:44:51 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:51 UTC] PHP Warning:  A non-numeric value encountered in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 4
+[09-Jul-2021 00:44:51 UTC] PHP Notice:  Undefined variable: url_callback in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 5
+[09-Jul-2021 00:44:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decrypt() in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 6
+[09-Jul-2021 00:46:11 UTC] PHP Notice:  Array to string conversion in /home/u526150100/domains/gubukdigital.net/public_html/checkout/perfectmoney/tes.php on line 9
+[09-Jul-2021 07:54:32 Asia/Jakarta] PHP Warning:  include(../vendor/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 07:54:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 07:54:34 Asia/Jakarta] PHP Warning:  include(../vendor/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 07:54:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 07:54:37 Asia/Jakarta] Pembayaran PM Telah berhasil diverifikasi invoice GD38841912
+[09-Jul-2021 08:07:22 Asia/Jakarta] PHP Warning:  include(../vendor/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:07:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:07:25 Asia/Jakarta] PHP Warning:  include(../vendor/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:07:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:07:31 Asia/Jakarta] Pembayaran PM Telah berhasil diverifikasi invoice GD79040715
+[09-Jul-2021 08:28:20 Asia/Jakarta] PHP Warning:  include(../vendor/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:28:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:28:22 Asia/Jakarta] PHP Warning:  include(../vendor/autoload.php): failed to open stream: No such file or directory in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:28:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u526150100/domains/gubukdigital.net/public_html/lib/function.php on line 185
+[09-Jul-2021 08:28:28 Asia/Jakarta] Pembayaran PM Telah berhasil diverifikasi invoice GD33954893

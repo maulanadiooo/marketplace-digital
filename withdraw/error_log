@@ -1,0 +1,2 @@
+[09-Apr-2021 15:18:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1226): User 'u526150100_digipro' has exceeded the 'max_user_connections' resource (current value: 15) in /home/u526150100/domains/gubukdigital.net/public_html/lib/db.php on line 3
+[09-Apr-2021 15:18:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1226): User 'u526150100_digipro' has exceeded the 'max_user_connections' resource (current value: 15) in /home/u526150100/domains/gubukdigital.net/public_html/lib/db.php on line 3

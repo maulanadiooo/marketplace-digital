@@ -1,0 +1,114 @@
+/*
+this file contains style for different social sharing option and icon style
+*/
+/*****************************
+	-- SOCIAL
+*****************************/
+.module--social{
+  padding-bottom: 20px !important;
+}
+.social{
+  display: inline-block;
+  ul li{
+    display: inline-block;
+    margin: 0 4px 10px;
+    &:last-child{
+      margin-bottom: 0;
+    }
+    a {
+      display: inline-block;
+      transition: .3s ease;
+      span{
+        line-height: 40px;
+        width: 40px;
+        text-align: center;
+      }
+      &:hover{
+        opacity: 0.8;
+      }
+    }
+  }
+}
+.author-social{
+  ul li a span{
+    width: remy(30px);
+    line-height: remy(30px);
+    font-size: remy(14px);
+  }
+}
+.social--color--filled{
+  ul li a{
+    color: #fff;
+  }
+  span{
+    border-radius: 50%;
+  }
+  span.fa-facebook{
+    background: #395799;
+  }
+  span.fa-twitter{
+    background: #19b2f5;
+  }
+  span.fa-google-plus{
+    background: #f05b44;
+  }
+  span.fa-pinterest{
+    background: #9c0c1c;
+  }
+  span.fa-linkedin{
+    background: #007bb5;
+  }
+  span.fa-dribbble{
+    background: #ea4c89;
+  }
+  span.fa-instagram{
+    background: #bc2a8d;
+  }
+  span.fa-vine{
+    background: #1ab7ea;
+  }
+  span.fa-flickr{
+    background: #ff0084;
+  }
+  span.fa-skype{
+    background: #1ab7ea;
+  }
+  span.fa-tumblr{
+    background: #2c4762;
+  }
+  span.fa-youtube{
+    background: #dc0101;
+  }
+}
+
+// single social area css goes here
+.social_icon{
+  display: inline-block;
+  span{
+    display: inline-block;
+    line-height: 45px;
+    width: 45px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 16px;
+    color: #fff;
+  }
+  span.fa-facebook{
+    background: #395799;
+  }
+
+  span.fa-twitter{
+    background: #19b2f5;
+  }
+  span.fa-google-plus{
+    background: #f05b44;
+  }
+  span.fa-behance{
+    background: #0057ff;
+  }
+  span.fa-dribbble{
+    background: #ea4c89;
+  }
+}

@@ -1,0 +1,16 @@
+Sitemap: https://gubukdigital.net/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /website/
+
+User-agent: *
+Crawl-Delay: 5
+Allow: /
+Disallow: /admin/
+Disallow: /coinpayments/
+Disallow: /midtrans/
+Disallow: /payment-status/
+Disallow: /mailhandler
+Disallow: /demos
+Disallow: /demos-2
+Disallow: /administrator
